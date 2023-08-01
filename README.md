@@ -1,7 +1,8 @@
+[![MasterHead](https://i.imgur.com/c7GmAJf.png)](http://adithyagattadi.io)
 <h1 align="center">Hi 👋, I'm Adithya Gattadi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://media.giphy.com/media/OdxSHCtSJtE88/giphy.gif”>
+<img align=“right” alt=“Heyy👻” width=“400” src=“https://gifdb.com/images/high/kitten-laptop-coding-hicxox3kgw3kew71.webp”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyagattadi&label=Profile%20views&color=0e75b6&style=flat" alt="adithyagattadi" /> </p>
 
