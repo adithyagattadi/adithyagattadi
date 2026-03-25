@@ -2,34 +2,134 @@
 <h1 align="center">Hi 👋, I'm Adithya Gattadi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align=“right” alt=“Heyy👻” width=“400” src=“https://gifdb.com/images/high/kitten-laptop-coding-hicxox3kgw3kew71.webp”>
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Adithya%20Gattadi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Web%2C%20One%20Line%20at%20a%20Time&descAlignY=58&descSize=16&animation=fadeIn" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyagattadi&label=Profile%20views&color=0e75b6&style=flat" alt="adithyagattadi" /> </p>
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Adithya+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Full+Stack+Learner+%F0%9F%9A%80;Coffee+%2B+Code+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://adithyagattadi.github.io/portfolio/#](https://adithyagattadi.github.io/portfolio/#)
+<!-- About Me -->
+<img align="right" alt="Coding Cat" width="360" src="https://gifdb.com/images/high/kitten-laptop-coding-hicxox3kgw3kew71.webp" />
 
-- 📫 How to reach me **adithyagattadi123@gmail.com**
+### 🧑‍💻 About Me
 
-- 📄 Know about my experiences [https://adithyagattadi.github.io/portfolio/CVV%20(new).pdf](https://adithyagattadi.github.io/portfolio/CVV%20(new).pdf)
+```javascript
+const adithya = {
+  location: "India 🇮🇳",
+  role: "Frontend Developer",
+  learning: "Full Stack Web Dev",
+  passion: ["Clean UI", "Creative Code", "Open Source"],
+  funFact: "I'm funny... probably 😎🥹",
+  contact: "adithyagattadi123@gmail.com"
+};
+```
 
-- ⚡ Fun fact **I'm Funny 😎🥹**
+- 🌱 Currently leveling up in **Full Stack Web Development**
+- 🔭 All my projects live at **[my portfolio](https://adithyagattadi.github.io/portfolio/#)**
+- 📄 Check out my **[resume](https://adithyagattadi.github.io/portfolio/CVV%20(new).pdf)**
+- ⚡ Fun fact: **I'm Funny 😎🥹**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adithya gattadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya gattadi" height="30" width="40" /></a>
-<a href="https://fb.com/adithya gattadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adithya gattadi" height="30" width="40" /></a>
-<a href="https://instagram.com/adithyafr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithyafr_" height="30" width="40" /></a>
-<a href="https://discord.gg/adithya#2537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adithya#2537" height="30" width="40" /></a>
-</p>
+<br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee Adithya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee Adithya" /></a></p><br><br>
+<!-- Tech Stack -->
+### 🛠️ Tech Stack & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyagattadi&show_icons=true&locale=en" alt="adithyagattadi" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyagattadi&" alt="adithyagattadi" /></p>
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+<!-- GitHub Stats -->
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adithyagattadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyagattadi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=adithyagattadi&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+---
+
+<!-- Activity Graph -->
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyagattadi&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</div>
+
+---
+
+<!-- Connect -->
+### 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithya-gattadi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adithyafr_)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/adithya-gattadi)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/adithya#2537)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyagattadi123@gmail.com)
+
+</div>
+
+---
+
+<!-- Support -->
+### ☕ Support My Work
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/Adithya">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+---
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adithyagattadi&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+</div>
